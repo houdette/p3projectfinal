@@ -1,4 +1,4 @@
-index.blade.php
+
 @extends ('_master')
 
   @section ('image')
