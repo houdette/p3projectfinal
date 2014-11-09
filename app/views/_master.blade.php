@@ -1,4 +1,4 @@
-_master.blade.php
+
 
 !DOCTYPE html>
 

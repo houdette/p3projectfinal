@@ -1,4 +1,4 @@
-paragraph.blade.php
+
 
 @extends ('_master')
 
